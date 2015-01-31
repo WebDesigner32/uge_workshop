@@ -36,13 +36,13 @@ git clone https://github.com/WebDesigner32/sea-w24-uge.git
 cd Documents/
 curl -fsSL http://git.io/QxUaOQ | sh
 curl -fsSL http://git.io/7UHtNA | sh
-curl -fsSL http://git.io/7UHtNA | sh 
+curl -fsSL http://git.io/7UHtNA | sh
 git config --global user.email 'landonepgy@gmail.com'
 git config --global user.name 'Landon Tyler Bennett'
 git config --global user.name 'YOUR FULL NAME'
 git --version
 brew install git
-echo $PATH 
+echo $PATH
 subl /etc/paths
 echo $EDITOR
 subl ~/.config/fish/config.fish
@@ -56,3 +56,4 @@ brew install fish
 brew doctor
 ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
 uname
+...
