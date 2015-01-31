@@ -1,3 +1,10 @@
+
+touch is a Unix command. You should review what it does.
+
+
+
+
+
 clear
 ll
 history > moving_around.txt
