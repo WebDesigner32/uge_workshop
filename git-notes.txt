@@ -1,0 +1,10 @@
+Well, let us see...
+
+I have taken a lot of notes, so I can just rely on those.
+
+New branch - git branch
+Make branch active - git checkout
+
+This is important. How do we open a file? Easy, if you are in the directory, then it is just subl . from the terminal to open up in Sublime Text. You can modify there. Now, you can just do subl <filename> too.
+
+Worth mentioning, your terminal history has been saved as Important Class Notes.
